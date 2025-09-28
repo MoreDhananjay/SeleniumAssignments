@@ -27,6 +27,8 @@ public class Assignment1
 		driver.quit();
 		
 		System.out.println("Test1 for Git clone");
+		System.out.println("Test2 for Git clone");
+		System.out.println("Test3 for Git clone");
 
 	}
 
