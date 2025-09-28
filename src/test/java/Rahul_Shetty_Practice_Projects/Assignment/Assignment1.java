@@ -29,6 +29,9 @@ public class Assignment1
 		System.out.println("Test1 for Git clone");
 		System.out.println("Test2 for Git clone");
 		System.out.println("Test3 for Git clone");
+		
+		System.out.println("updates1 in develop branch");
+		System.out.println("updates2 in develop branch");
 
 	}
 
