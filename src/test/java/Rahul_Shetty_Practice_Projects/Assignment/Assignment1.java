@@ -25,6 +25,8 @@ public class Assignment1
 		// To get the total number of checkboxes
 		System.out.println(driver.findElement(By.xpath("//input[@type='checkbox']")).getSize());
 		driver.quit();
+		
+		System.out.println("Test1 for Git clone");
 
 	}
 
